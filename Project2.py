@@ -1,6 +1,7 @@
-Ria dubey
-Partner: Meera Amin
+Ria Dubey
 uniquename: riadubey
+Partner: Meera Amin
+
 
 rom bs4 import BeautifulSoup
 import requests
